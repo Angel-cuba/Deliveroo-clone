@@ -1,4 +1,4 @@
-import { View, Text, ScrollView } from 'react-native';
+import { View, Text, ScrollView, Image } from 'react-native';
 import React from 'react';
 import Category from './Card/Category';
 
@@ -19,7 +19,23 @@ const Categories = () => {
         title="Restaurat 2"
       />
       <Category
-        imgUrl="https://res.cloudinary.com/dqaerysgb/image/upload/v1635267338/restaurat-bar_m41i8l.jpg"
+        imgUrl="https://links.papareact.com/gn7"
+        title="Restaurat 3"
+      />
+      <Category
+        imgUrl="https://links.papareact.com/gn7"
+        title="Restaurat 3"
+      /><Category
+        imgUrl="https://links.papareact.com/gn7"
+        title="Restaurat 3"
+      /><Category
+        imgUrl="https://links.papareact.com/gn7"
+        title="Restaurat 3"
+      /><Category
+        imgUrl="https://links.papareact.com/gn7"
+        title="Restaurat 3"
+      /><Category
+        imgUrl="https://links.papareact.com/gn7"
         title="Restaurat 3"
       />
     </ScrollView>
