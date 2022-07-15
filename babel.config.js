@@ -5,3 +5,5 @@ module.exports = function (api) {
     plugins: ['tailwindcss-react-native/babel'],
   };
 };
+
+// , '@babel/preset-react'
