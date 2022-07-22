@@ -137,8 +137,8 @@ Expo provides free hosting for the JS-only apps created by CRNA, allowing you to
 Install the `exp` command-line tool, and run the publish command:
 
 ```
-$ npm i -g exp
-$ exp publish
+$ npm i -g expo
+$ expo publish
 ```
 
 ### Building an Expo "standalone" app
